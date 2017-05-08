@@ -1,0 +1,110 @@
+﻿INTRATTENIMENTO	Cinestar Multisala	Piano Terra
+ABBIGLIAMENTO E ACCESSORI	Akè	Piano Terra 14
+ABBIGLIAMENTO E ACCESSORI	Antony Morato	Primo Piano 103
+ABBIGLIAMENTO E ACCESSORI	Black Jack 21	Primo Piano 96 bis
+ABBIGLIAMENTO E ACCESSORI	Broster	Primo Piano 99
+ABBIGLIAMENTO E ACCESSORI	Bugatti Station	Primo Piano 60
+ABBIGLIAMENTO E ACCESSORI	Calabrò	Piano Terra 21
+ABBIGLIAMENTO E ACCESSORI	Camicissima	Piano Terra
+ABBIGLIAMENTO E ACCESSORI	Camomilla Italia	Piano Terra 104
+ABBIGLIAMENTO E ACCESSORI	Chiara B.	Primo Piano 68
+ABBIGLIAMENTO E ACCESSORI	Conte of Florence	Primo Piano 107
+ABBIGLIAMENTO E ACCESSORI	Daddy & Son	Primo Piano 105bis
+ABBIGLIAMENTO E ACCESSORI	Desigual	Primo Piano 112
+ABBIGLIAMENTO E ACCESSORI	Distefano	Primo Piano 105
+ABBIGLIAMENTO E ACCESSORI	Frattini	Piano Terra 37
+ABBIGLIAMENTO E ACCESSORI	Gatta ci Cova	Primo Piano 37bis
+ABBIGLIAMENTO E ACCESSORI	Gaudì	Primo Piano 73bis
+ABBIGLIAMENTO E ACCESSORI	Golden Point	Piano Terra 30
+ABBIGLIAMENTO E ACCESSORI	Guess	Piano Terra 44-45
+ABBIGLIAMENTO E ACCESSORI	Imperial/Kate	Piano Terra 46
+ABBIGLIAMENTO E ACCESSORI	Kruder	Piano Terra 40
+ABBIGLIAMENTO E ACCESSORI	Lizalù	Piano Terra 48
+ABBIGLIAMENTO E ACCESSORI	Jennyfer	Piano Terra 110-111
+ABBIGLIAMENTO E ACCESSORI	Mango	Primo Piano 69
+ABBIGLIAMENTO E ACCESSORI	Mavis	Primo Piano 63
+ABBIGLIAMENTO E ACCESSORI	Mc Gregor	Primo Piano 70
+ABBIGLIAMENTO E ACCESSORI	M Luxury Store	Piano Terra 49
+ABBIGLIAMENTO E ACCESSORI	Mono	Piano Terra 28
+ABBIGLIAMENTO E ACCESSORI	Piazza Italia	Primo Piano 77-79
+ABBIGLIAMENTO E ACCESSORI	Replay	Primo Piano 100
+ABBIGLIAMENTO E ACCESSORI	Rifle	Piano Terra 39
+ABBIGLIAMENTO E ACCESSORI	Sandro Ferrone	Piano Terra 18
+ABBIGLIAMENTO E ACCESSORI	Soireve	Piano Terra 36
+ABBIGLIAMENTO E ACCESSORI	Undercolors of Benetton	Primo Piano 97
+ABBIGLIAMENTO E ACCESSORI	Willer's	Primo Piano 113
+ABBIGLIAMENTO E ACCESSORI	Yamamay	Primo Piano 94
+ABBIGLIAMENTO E ACCESSORI	JFP	Primo Piano Box 102
+ABBIGLIAMENTO BAMBINO	Chicco	Piano Terra 51-52
+ABBIGLIAMENTO BAMBINO	Coriolano Junior	Primo Piano 108
+ABBIGLIAMENTO BAMBINO	Original Marines	Primo Piano 115-116
+ABBIGLIAMENTO BAMBINO	Piazza Italia Kids	Primo Piano 75-76
+ABBIGLIAMENTO BAMBINO	Primigi	Primo Piano 119
+ABBIGLIAMENTO BAMBINO	Sergent Major	Primo Piano 62
+ABBIGLIAMENTO BAMBINO	Emporio 88	Primo Piano 108
+BENI PER LA CASA	Bialetti Home	Primo Piano 73
+BENI PER LA CASA	...e Tu cosa bevi?	Primo Piano 59
+BENI PER LA CASA	Julien Moda Casa	Primo Piano 96
+BENI PER LA CASA	Poltrone Sofà	Primo Piano 74
+BENI PER LA CASA	Punto Casa	Primo Piano 80-81
+BENI PER LA CASA	Thun	Piano Terra 17
+BENI PER LA PERSONA	Angiolucci Occhiali	Piano Terra 19
+BENI PER LA PERSONA	Carassale Gioielli	Piano Terra 47
+BENI PER LA PERSONA	Carina Bijoux	Piano Terra 35
+BENI PER LA PERSONA	C.G. Emozioni	Piano Terra 50
+BENI PER LA PERSONA	Costantino Mode	Piano Terra 18bis
+BENI PER LA PERSONA	Erboristeria Herbarium	Piano Terra 29
+BENI PER LA PERSONA	Profumeria Vyola	Piano Terra 53bis / 54
+BENI PER LA PERSONA	Swarovski	Piano Terra Box 6
+BENI PER LA PERSONA	Thun	Piano Terra 17
+BENI PER LA PERSONA	Wjcon	Piano Terra 2
+CALZATURE E PELLETTERIA	Bata	Piano Terra 10-14
+CALZATURE E PELLETTERIA	Spazio G Calzature	Piano Terra 43
+CALZATURE E PELLETTERIA	Geox	Primo Piano 89-90
+CALZATURE E PELLETTERIA	Queen Helena Shoes	Piano Terra 38
+CALZATURE E PELLETTERIA	Miriade	Primo Piano 95
+CALZATURE E PELLETTERIA	Pikla	Primo Piano 64
+CALZATURE E PELLETTERIA	Primadonna	Primo Piano 98
+CALZATURE E PELLETTERIA	Style & Confort	Primo Piano 101
+CALZATURE E PELLETTERIA	Superga	Primo Piano 105 ter
+ELETTRONICA E TELEFONIA	Game Stop	Piano Terra 15
+ELETTRONICA E TELEFONIA	Trony Gruppo Papino	Piano Terra 23-26
+ELETTRONICA E TELEFONIA	Unicity Mobile	Piano Terra
+ELETTRONICA E TELEFONIA	Vodafone One	Primo Piano 106
+ELETTRONICA E TELEFONIA	3 Store	Primo Piano 69bis
+ELETTRONICA E TELEFONIA	Wind	Primo Piano 70bis
+NEGOZI LATO OVEST	Brico City	Seminterrato
+NEGOZI LATO OVEST	Enjoy Pub	Piano Terra 6
+NEGOZI LATO OVEST	Expert Pistone	Piano Terra 9-10
+NEGOZI LATO OVEST	Frienz Bowling	Piano Terra 1-2
+NEGOZI LATO OVEST	McDonald's	Piano Terra 4
+NEGOZI LATO OVEST	Montalto Outlet	Piano Terra 3 bis
+NEGOZI LATO OVEST	My Brand	Piano Terra 3
+NEGOZI LATO OVEST	Nexive	Seminterrato
+NEGOZI LATO OVEST	Out Brands	Piano Terra 5
+NEGOZI LATO OVEST	Super Spaccio Alimentare	Seminterrato
+RISTORAZIONE	Mangiami	Piano Terra 34
+RISTORAZIONE	Coffee? Perchè No	Piano Terra
+RISTORAZIONE	Cofee Plaza	Piano Terra
+RISTORAZIONE	F.lli La Bufala	Piano Terra 33
+RISTORAZIONE	G&G Caffarel	Primo Piano 84-85
+RISTORAZIONE	Gusto	Piano Terra 32
+RISTORAZIONE	XO - Food Market & Tobacco	Piano Terra 31
+RISTORAZIONE	Yogurtlandia	Piano Terra 31 bis
+SERVIZI	Compagnia della Bellezza	Primo Piano 120
+SERVIZI	Centro Estetico Beauty Relax	Primo Piano 121
+SERVIZI	Edicola Gioca, Leggi & Vinci	Piano Terra 58
+SERVIZI	Findomestic	Piano Terra
+SERVIZI	I Portali Dei Viaggi	Piano Terra 104 bis
+SERVIZI	Lavanderia Clean Point	Piano Terra 27
+SERVIZI	Ludoteca	Piano Terra
+SERVIZI	Parafarmacia Farmissima	Piano Terra 53
+SERVIZI	Sartoria Taglia & Cuci	Piano Terra 71 bis
+SERVIZI	Sportello Bancomat	Piano Terra Piazza
+SPORT E TEMPO LIBERO	AW Lab	Piano Terra 41
+SPORT E TEMPO LIBERO	Cisalfa Intersport	Piano Terra 2-9
+SPORT E TEMPO LIBERO	Quicksilver	Primo Piano 61
+SPORT E TEMPO LIBERO	Robe di Kappa	Primo Piano 109
+SPORT E TEMPO LIBERO	The Toys Store	Primo Piano 122
+SUPERMERCATO E ALIMENTARI	Simply Market	Piano Terra 55-57
+SUPERMERCATO E ALIMENTARI	Torrecorta	Piano Terra 1

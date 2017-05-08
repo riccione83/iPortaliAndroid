@@ -1,0 +1,4 @@
+iPortaliAndroid.MainActivity, iPortaliAndroid;md517e48b6440404dd485be69fbd07f088b.MainActivity
+iPortaliAndroid.MainActivity, iPortaliAndroid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md517e48b6440404dd485be69fbd07f088b.MainActivity
+iPortaliAndroid.MainActivity;md517e48b6440404dd485be69fbd07f088b.MainActivity
+iportaliandroid.MainActivity;md517e48b6440404dd485be69fbd07f088b.MainActivity

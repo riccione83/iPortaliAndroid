@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="MapPTerra">Mappa Piano Terra</string>
+    <string name="MapPrimoPiano">Mappa Primo Piano</string>
+    <string name="MapOvest">Mappa Lato Ovest</string>
+    <string name="FindStore">Cerca un Negozio</string>
+    <string name="ApplicationName">iPortaliAndroid</string>
+</resources>
